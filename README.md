@@ -9,3 +9,4 @@ If you do not have a Microsoft account, you can access the project [here](https:
 ### Tool used:
 * Microsoft Power BI
 
+<iframe title="PowerBI Data Visualization" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjNmMzE2ZjctMGU2Ny00MDliLTgxM2QtNzFkMTQwYmQyZjY1IiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9&pageName=ReportSectiond4908481f8b8d5aafa71" frameborder="0" allowFullScreen="true"></iframe>
