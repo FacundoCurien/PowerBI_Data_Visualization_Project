@@ -3,8 +3,7 @@ A tourism company wants to evaluate ways to increase their customer base. They w
 
 In this project I have used **PowerBI** for data visualization.
 
-If you do not have a Microsoft account, you can access the following public link: 
-https://app.powerbi.com/view?r=eyJrIjoiZjNmMzE2ZjctMGU2Ny00MDliLTgxM2QtNzFkMTQwYmQyZjY1IiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9&pageName=ReportSectiond4908481f8b8d5aafa71
+If you do not have a Microsoft account, you can access the following public https://app.powerbi.com/view?r=eyJrIjoiZjNmMzE2ZjctMGU2Ny00MDliLTgxM2QtNzFkMTQwYmQyZjY1IiwidCI6IjFhZDg2Mzc0LTA5YWUtNDBjMS04ZWVmLTY2MmIyMDdhOTNmZiJ9&pageName=ReportSectiond4908481f8b8d5aafa71.
 
 ### Tool used:
 * Microsoft Power BI
